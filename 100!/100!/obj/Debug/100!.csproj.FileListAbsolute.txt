@@ -1,0 +1,9 @@
+J:\Programing\C#\100!\100!\obj\Debug\100!.csprojResolveAssemblyReference.cache
+J:\Programing\C#\100!\100!\obj\Debug\100!.csproj.CoreCompileInputs.cache
+L:\Programming\C#\My projects\100!\100!\bin\Debug\100!.exe.config
+L:\Programming\C#\My projects\100!\100!\bin\Debug\100!.exe
+L:\Programming\C#\My projects\100!\100!\bin\Debug\100!.pdb
+L:\Programming\C#\My projects\100!\100!\obj\Debug\100!.csprojResolveAssemblyReference.cache
+L:\Programming\C#\My projects\100!\100!\obj\Debug\100!.csproj.CoreCompileInputs.cache
+L:\Programming\C#\My projects\100!\100!\obj\Debug\100!.exe
+L:\Programming\C#\My projects\100!\100!\obj\Debug\100!.pdb
